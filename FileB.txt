@@ -1,1 +1,2 @@
 This is FileB.
+Adding a change from local
